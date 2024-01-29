@@ -4,7 +4,7 @@ import React from 'react'
 import AOS from 'aos';
 import 'aos/dist/aos.css'
 import Second from '@/Components/Second';
-import ThreeSilder from '@/Components/ThreeSilder';
+import ThreeSilder from '@/Components/ThreeSilder.d';
 import Fourth from "../../Components/Fourth";
 import Features from "../../Components/Features";
 import SixProject from "../../Components/SixPorject";
